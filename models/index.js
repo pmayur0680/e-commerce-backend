@@ -19,6 +19,7 @@ Product.belongsTo(Category, {
 Tag.belongsToMany(Product, {
   // Define the third table needed to store the foreign keys
   through: {
+    foreignKey: 'tag_id',
     model: ProductTag,
     unique: false
   },
@@ -30,6 +31,7 @@ Tag.belongsToMany(Product, {
 Product.belongsToMany(Tag, {
   // Define the third table needed to store the foreign keys
   through: {
+    foreignKey: 'product_id',
     model: ProductTag,
     unique: false
   },
