@@ -19,7 +19,7 @@ You can follow the steps below to install the application on your system.
 This application uses MySQL2 and Sequelize packages to connect MySQL database and perform queries.
   ## Usage
 Following is video walkthrough hosted on Google Drive.<br /><br />
-[<img src="https://user-images.githubusercontent.com/101486770/167029094-e2d67cdd-13b7-4f83-8412-0fbcdf4cf92b.gif">](https://drive.google.com/file/d/1k7EyjZvipJU7Ybe1QxmkbJq-PXwk3G7H/view "E-Commerce Back End")
+[<img src="https://user-images.githubusercontent.com/101486770/167029094-e2d67cdd-13b7-4f83-8412-0fbcdf4cf92b.gif">](https://drive.google.com/file/d/1_uC4Apvc-D5ftAEBHXhi3uound6hac2f/view "E-Commerce Back End")
   ## License
 Distributed under the MIT License.
   ## Contributing
